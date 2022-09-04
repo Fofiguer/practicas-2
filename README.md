@@ -1,2 +1,1 @@
-# practicas-2
-Nuevo repositorio para practica
+# Nuevo repositorio para practica
